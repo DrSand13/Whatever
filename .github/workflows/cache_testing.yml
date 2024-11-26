@@ -1,3 +1,0 @@
-name: Caching dependencies
-
-on: workflow_dispatch
